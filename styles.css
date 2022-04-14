@@ -4,13 +4,20 @@
 }
 
 body {
+    width: 80vw;
+    margin: 0 auto;
+    padding: 1rem;
+    border: 0.05rem solid black;
 }
 
 h1 {
-
+    background-color: burlywood;
 }
 
-.localSubPages {
-    outline: 0.05rem solid black;
-    outline-offset: 1rem;
+h2 {
+    background-color:lightgoldenrodyellow;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.webList {
 }
